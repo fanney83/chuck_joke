@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/fanney83/chuck_joke.png)](https://travis-ci.org/fanney83/chuck_joke)
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2016-3)
 
